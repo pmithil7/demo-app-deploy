@@ -7,4 +7,4 @@ resources:
 images:
 - name: ghcr.io/argocon2022-workshop/demo-app
   newName: ghcr.io/pmithil7/demo-app
-  newTag: 9a11628f517a3052465714c6b198ebb784cef016
+  newTag: 293add2c902042545018986684ff66543fab7c90
